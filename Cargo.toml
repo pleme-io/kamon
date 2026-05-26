@@ -1,6 +1,6 @@
 [package]
 name = "kamon"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2024"
 rust-version = "1.89.0"
 description = "Kamon (家紋) — file type icon provider for Neovim with Nerd Font support"
