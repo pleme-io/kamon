@@ -1,0 +1,45 @@
+{
+  "version": 2,
+  "workspace": {
+    "root": "/Users/drzzln/code/github/pleme-io/kamon",
+    "members": [
+      {
+        "name": "kamon",
+        "relative_path": "."
+      }
+    ]
+  },
+  "crates": {
+    "kamon-0.1.1": {
+      "name": "kamon",
+      "version": "0.1.1",
+      "edition": "2024",
+      "source": {
+        "kind": "path",
+        "relative_path": "."
+      },
+      "features": [],
+      "proc_macro": false,
+      "build_script": null,
+      "binaries": [],
+      "lib_target": {
+        "name": "kamon",
+        "path": "src/lib.rs"
+      },
+      "dependencies": [],
+      "runtime_dependencies": [],
+      "build_dependencies": [],
+      "crate_renames": {}
+    }
+  },
+  "root_crate": "kamon-0.1.1",
+  "workspace_members": [
+    "kamon-0.1.1"
+  ],
+  "flake_metadata": {
+    "kamon": {
+      "default_bin": null,
+      "repo": "pleme-io/kamon"
+    }
+  }
+}
